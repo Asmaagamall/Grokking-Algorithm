@@ -6,7 +6,7 @@ This repo contains solutions for [Grokking Algorithm](https://eg1lib.org/book/27
 
 |Chapter                                     |Code
 |-----------                            |------------
-|Chapter 1: Binary Search               |[Binary Search Algorithm]()|
-|Chapter 2: Selection Sort              |[Selection Sort Algorithm]()|
-|Chapter 3: Recursion                   |[Recursive Binary Search]()|
-|Chapter 4: Quick Sort                  |[Quick Sort Algorithm]()|
+|Chapter 1: Binary Search               |[Binary Search Algorithm](/01-Binary%20Search/BinarySearch.py)|
+|Chapter 2: Selection Sort              |[Selection Sort Algorithm](/02-Selection%20Sort/SelectionSort.py)|
+|Chapter 3: Recursion                   |[Recursive Binary Search](/03-Recursion/RecursiveBinarySearch.py)|
+|Chapter 4: Quick Sort                  |[Quick Sort Algorithm](/04-Quick%20Sort/QuickSort.py)|
